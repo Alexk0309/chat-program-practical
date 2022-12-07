@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(26219668-4aac-4f70-ad25-752cc75e2ab5), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /Volumes/Alex's SSD/Sunway/Semester 7/NET3204 Distributed System/Practical 10/Scala-Chat-Program/target/scala-2.12/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Volumes/Alex's SSD/Sunway/Semester 7/NET3204 Distributed System/Practical 10/Scala-Chat-Program/src/main/scala/com/hep88/ChatClient.scala:57:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: FindTheServer, Joined(_), ListingResponse(_), StartJoin(_), start[0m
+[0m[[0m[33mwarn[0m] [0m[0m    message match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 85 s (01:25), completed Dec 7, 2022 2:10:36 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

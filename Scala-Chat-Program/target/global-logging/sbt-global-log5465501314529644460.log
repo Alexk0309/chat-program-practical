@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(f394d878-e6d3-4a89-b00b-ad64cddc8d23), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Volumes/Alex's SSD/Sunway/Semester 7/NET3204 Distributed System/Practical 10/Scala-Chat-Program/target/scala-2.12/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Volumes/Alex's SSD/Sunway/Semester 7/NET3204 Distributed System/Practical 10/Scala-Chat-Program/src/main/scala/com/hep88/ClientApp.scala:23:30: not found: value jfxs[0m
+[0m[[0m[31merror[0m] [0m[0m  val roots = loader.getRoot[jfxs.layout.BorderPane][0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 5 s, completed Dec 6, 2022 5:07:56 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

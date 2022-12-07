@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Volumes/Alex's SSD/Sunway/Semester 7/NET3204 Distributed System/Practical 10/Scala-Chat-Program/src/main/scala/com/hep88/ChatClient.scala:57:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: FindTheServer, Joined(_), ListingResponse(_), StartJoin(_), start[0m
+[0m[[0m[33mwarn[0m] [0m[0m    message match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
